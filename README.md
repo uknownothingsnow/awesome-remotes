@@ -17,6 +17,13 @@ Tower的远程办公实践 https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs
 
 # 国外
 
+# Basecamp（原37signals）
+Basecamp原名37signals，是全世界效率最高的软件公司之一，推出并持续维护着世界上最受欢迎的项目管理工具Basecamp。他们始终保持着“小，美，酷”的特征，维持着小团队规 模，三十多个员工分散在世界各地远程办公，是通过远程方式协同工作的典范。弗里德与汉森合著的第一本书《重来》（Rework）高居《纽约时报》畅销书榜前列，书中推崇的管理理念在国内商业领域也产生了巨大影响。
+
+大名顶顶的RubyonRails作者创建的公司，该公司不仅自己实践remote work，还把这一理念写成了畅销书，算是remote work里影响力最大的公司了。
+
+《remote》这本书的中文翻译在此：https://www.jianshu.com/nb/41672  。该书豆瓣地址： https://book.douban.com/subject/21362627/
+
 # Gitlab 
 Gitlab 和全球最大的同性交友网站 Github 一样都是代码托管平台，只是 Gitlab 更多是面向企业。到目前为止，他们一共有 1179 名成员，来自世界 67 个不同国家，公司市值高达 27.5 亿美元。
 
