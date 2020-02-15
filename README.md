@@ -15,6 +15,11 @@ Tower 是彩程设计自主独立研发一款在线协作 SaaS 软件，发布�
 Tower 一直致力于帮助中小企业成长与发展，通过提供高效的管理协作软件，助力企业内部协作与外部连接。让用户在任意接入互联网的地方，都能完成高效的协作沟通。
 Tower的远程办公实践 https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs
 
+# MegaEase
+国内知名程序员@左耳朵耗子 创立的创业公司，致力于企业级的云化的应用架构规划和治理
+
+相关报道：左耳朵耗子：疫情下的远程办公，聊聊我的经验和实践 https://www.infoq.cn/article/fVAkBmhfwVaQ7868BT3g?utm_source=7d_hot&utm_medium=article
+
 # 国外
 
 # Basecamp（原37signals）
