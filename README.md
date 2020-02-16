@@ -45,3 +45,5 @@ https://mp.weixin.qq.com/s/kmmF-sXSAfBIb_mLX5Xw1A
 # 关于远程办公的文章
 
 调查完 150 个远程办公团队，我们发现了这几个真相 https://www.infoq.cn/article/uGa6HbDqEe5IokrYrPB8
+
+PingCAP工程师的远程工作感悟：https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md
