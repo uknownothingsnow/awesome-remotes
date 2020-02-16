@@ -41,3 +41,7 @@ https://mp.weixin.qq.com/s/xLC9Up6VDqFx-o72gY9oZg
 
 相关报道：
 https://mp.weixin.qq.com/s/kmmF-sXSAfBIb_mLX5Xw1A
+
+# 关于远程办公的文章
+
+调查完 150 个远程办公团队，我们发现了这几个真相 https://www.infoq.cn/article/uGa6HbDqEe5IokrYrPB8
