@@ -56,3 +56,8 @@ https://mp.weixin.qq.com/s/kmmF-sXSAfBIb_mLX5Xw1A
 PingCAP工程师的远程工作感悟：https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md
 
 五年的远程工作带给我的酸甜苦辣：https://zhuanlan.zhihu.com/p/20775692
+
+# 远程办公相关的Repository
+
+- 远程工作的公司列表 https://github.com/remoteintech/remote-jobs
+- 相关的索引 https://github.com/lukasz-madon/awesome-remote-job
