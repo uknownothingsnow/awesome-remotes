@@ -22,6 +22,7 @@ Tower的远程办公实践 https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs
 
 # 美事T2T
 做自己的老板，让工作和生活成为一件美事。
+
 美事T2T平台致力于创造游戏化灵活用工环境，将“诗和远方”与工作融为一体，让你玩着就把钱赚了。
 
 相关心得 http://blog.task2talent.com/
