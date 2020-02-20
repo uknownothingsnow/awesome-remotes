@@ -51,13 +51,12 @@ https://mp.weixin.qq.com/s/kmmF-sXSAfBIb_mLX5Xw1A
 
 # 关于远程办公的文章
 
-调查完 150 个远程办公团队，我们发现了这几个真相 https://www.infoq.cn/article/uGa6HbDqEe5IokrYrPB8
-
-PingCAP工程师的远程工作感悟：https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md
-
-五年的远程工作带给我的酸甜苦辣：https://zhuanlan.zhihu.com/p/20775692
+- [调查完 150 个远程办公团队，我们发现了这几个真相](https://www.infoq.cn/article/uGa6HbDqEe5IokrYrPB8)
+- [PingCAP工程师的远程工作感悟](https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md)
+- [五年的远程工作带给我的酸甜苦辣](https://zhuanlan.zhihu.com/p/20775692)
+- [远程办公指南](http://blog.task2talent.com/2020/02/19/%e8%bf%9c%e7%a8%8b%e5%8a%9e%e5%85%ac%e6%8c%87%e5%8d%97/)
 
 # 远程办公相关的Repository
 
-- 远程工作的公司列表 https://github.com/remoteintech/remote-jobs
-- 相关的索引 https://github.com/lukasz-madon/awesome-remote-job
+- [远程工作的公司列表](https://github.com/remoteintech/remote-jobs) 
+- [相关的索引](https://github.com/lukasz-madon/awesome-remote-job)
