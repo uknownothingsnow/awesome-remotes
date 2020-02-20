@@ -20,6 +20,13 @@ Tower的远程办公实践 https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs
 
 相关报道：左耳朵耗子：疫情下的远程办公，聊聊我的经验和实践 https://www.infoq.cn/article/fVAkBmhfwVaQ7868BT3g?utm_source=7d_hot&utm_medium=article
 
+# 美事T2T
+做自己的老板，让工作和生活成为一件美事。
+
+美事T2T平台致力于创造游戏化灵活用工环境，将“诗和远方”与工作融为一体，让你玩着就把钱赚了。
+
+相关心得 http://blog.task2talent.com/
+
 # 国外
 
 # Basecamp（原37signals）
@@ -29,7 +36,7 @@ Basecamp原名37signals，是全世界效率最高的软件公司之一，推出
 
 《remote》这本书的中文翻译在此：https://www.jianshu.com/nb/41672  。该书豆瓣地址： https://book.douban.com/subject/21362627/
 
-# Gitlab 
+# Gitlab
 Gitlab 和全球最大的同性交友网站 Github 一样都是代码托管平台，只是 Gitlab 更多是面向企业。到目前为止，他们一共有 1179 名成员，来自世界 67 个不同国家，公司市值高达 27.5 亿美元。
 
 相关报道：
@@ -44,8 +51,12 @@ https://mp.weixin.qq.com/s/kmmF-sXSAfBIb_mLX5Xw1A
 
 # 关于远程办公的文章
 
-调查完 150 个远程办公团队，我们发现了这几个真相 https://www.infoq.cn/article/uGa6HbDqEe5IokrYrPB8
+- [调查完 150 个远程办公团队，我们发现了这几个真相](https://www.infoq.cn/article/uGa6HbDqEe5IokrYrPB8)
+- [PingCAP工程师的远程工作感悟](https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md)
+- [五年的远程工作带给我的酸甜苦辣](https://zhuanlan.zhihu.com/p/20775692)
+- [远程办公指南](http://blog.task2talent.com/2020/02/19/%e8%bf%9c%e7%a8%8b%e5%8a%9e%e5%85%ac%e6%8c%87%e5%8d%97/)
 
-PingCAP工程师的远程工作感悟：https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md
+# 远程办公相关的Repository
 
-五年的远程工作带给我的酸甜苦辣：https://zhuanlan.zhihu.com/p/20775692
+- [远程工作的公司列表](https://github.com/remoteintech/remote-jobs) 
+- [相关的索引](https://github.com/lukasz-madon/awesome-remote-job)
