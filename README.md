@@ -8,6 +8,7 @@ great remote companies，各种很酷的远程工作的公司
 PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 20000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。
 
 PingCAP 的 5 年远程办公实践：https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA
+PingCAP CTO 黄东旭：远程办公 5 年，分布式解决所有问题 https://mp.weixin.qq.com/s/mEporfe7HYsbhPaOri56qg
 
 # Tower
 Tower 是彩程设计自主独立研发一款在线协作 SaaS 软件，发布于 2012 年 11 月，拥有多项商标、专利与软件著作权。目前 Tower 拥有近百万级的企业用户，被各行业领域广为认可。
